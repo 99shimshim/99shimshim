@@ -8,9 +8,14 @@
 - 🏫 Membership : 성균관대학교 (SKKU, Seoul)
 - 💯 Major : Statistics
 - 🔰 MBTI : ENFJ
-- 🎹 Hobby : Piano, jogging, table tennis, chatting w/ friends
-- 🐶 interests : biology, 
-- 
-- ::What is my github for : Making up data analysis / visualizing projects I've done.
+- 🎹 Hobby : Piano, jogging, traveling, table tennis
+- 🐶 interests : biology, Rock n roll
+- 🌂 What is my github for : Making up data analysis / visualizing projects I've done.
 - 📫 How to reach me: mrg0718@naver.com
 - 😄 Pronouns: Laughter, Active
+
+<br>
+### SKILLS
+- 💻 computing : R, python, SAS, SPSS, MS office (PPT, Excel, Access, Word, ...)
+- 🗣️ languages : Korean(mother tongue), English(intermediate), Japanese(basic)
+- 
