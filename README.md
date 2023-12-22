@@ -1,6 +1,6 @@
 ### PROFILE
 
-<a href="https://www.instagram.com/99_is_shimshim" target="_blank"><img src="https://img.shields.io/badge/99_is_shimshim-#000000?style=plastic&logo=instagram&logoColor=F07A90"/></a>
+<a href="https://www.instagram.com/99_is_shimshim" target="_blank"><img src="https://img.shields.io/badge/99_is_shimshim-000000?style=plastic&logo=instagram&logoColor=F07A90"/></a>
 
 - Name : 심현구 (HyunGoo Shim)
 - Birth : 1998.7.18
