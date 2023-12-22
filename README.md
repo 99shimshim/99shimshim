@@ -14,7 +14,6 @@
 - 📫 How to reach me: mrg0718@naver.com
 - 😄 Pronouns: Laughter, Active
 
-<br>
 ### SKILLS
 - 💻 computing : R, python, SAS, SPSS, MS office (PPT, Excel, Access, Word, ...)
 - 🗣️ languages : Korean(mother tongue), English(intermediate), Japanese(basic)
