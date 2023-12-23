@@ -13,7 +13,7 @@
 - 🌂 **What is my github for 1** : Making up data analysis / visualizing projects I've done
 - 🌂🌂 **What is my github for 2** : Posting team studies about data
 - 📫 **How to reach me** : mrg0718@naver.com
-- 😄 **Character** : Bubbly, Thorough, Considerate, 
+- 😄 **Character** : Bubbly, Thorough, Considerate
 
 ### SKILLS
 - 💻 **Computing** : R, python, SAS, SPSS, SQL, MS office (PPT, Excel, Access, Word, ...)
