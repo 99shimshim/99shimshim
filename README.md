@@ -7,13 +7,14 @@
 - 🍰 **Birth** : 1998.7.18
 - 🏫 **Membership** : 성균관대학교 (SKKU, Seoul)
 - 💯 **Major** : Statistics
-- 🔰 **MBTI** : ENFJ
-- 🎹 **Hobbies** : Piano, jogging, traveling, table tennis
-- 🐶 **Interests** : biology, Rock n roll
 - 🌂 **What is my github for 1** : Making up data analysis / visualizing projects I've done
 - 🌂🌂 **What is my github for 2** : Posting team studies about data
-- 📫 **How to reach me** : mrg0718@naver.com
+- 🔰 **MBTI** : ENFJ
 - 😄 **Character** : Bubbly, Thorough, Considerate
+- 🎹 **Hobbies** : Piano, jogging, traveling, table tennis
+- 🐶 **Interests** : biology, Rock n roll
+- 📫 **How to reach me** : mrg0718@naver.com
+
 
 ### SKILLS
 - 💻 **Computing** : R, python, SAS, SPSS, SQL, MS office (PPT, Excel, Access, Word, ...)
