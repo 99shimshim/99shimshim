@@ -15,5 +15,5 @@
 - 😄 **Character** : Bubbly, Thorough, Considerate, 
 
 ### SKILLS
-- 💻 **Computing** : R, python, SAS, SPSS, MS office (PPT, Excel, Access, Word, ...)
+- 💻 **Computing** : R, python, SAS, SPSS, SQL, MS office (PPT, Excel, Access, Word, ...)
 - 🗣️ **Languages** : Korean(mother tongue), English(intermediate), Japanese(basic)
