@@ -10,7 +10,7 @@
 - 🔰 **MBTI** : ENFJ
 - 🎹 **Hobbies** : Piano, jogging, traveling, table tennis
 - 🐶 **Interests** : biology, Rock n roll
-- 🌂 **What is my github for** : Making up data analysis / visualizing projects I've done.
+- 🌂 **What is my github for** : Making up data analysis / visualizing projects I've done // Team studies for times series analysis and NLP
 - 📫 **How to reach me** : mrg0718@naver.com
 - 😄 **Character** : Bubbly, Thorough, Considerate, 
 
