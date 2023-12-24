@@ -7,7 +7,7 @@
 - 🍰 **Birth** : 1998.7.18
 - 🏫 **Membership** : 성균관대학교 (SKKU, Seoul)
 - 💯 **Major** : Statistics
-- 🌂 **What is my github for 1** : Making up data analysis / visualizing projects I've done
+- 🌂 **What is my github for 1** : Making up data analysis / visualizing projects I've done (marked with ⭐)
 - 🌂🌂 **What is my github for 2** : Posting team studies about data
 - 🔰 **MBTI** : ENFJ
 - 😄 **Character** : Bubbly, Thorough, Considerate
