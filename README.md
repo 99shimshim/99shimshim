@@ -5,7 +5,8 @@
 
 - 💎 **Name** : 심현구 (HyunGoo Shim)
 - 🍰 **Birth** : 1998.7.18
-- 🏫 **Membership** : 성균관대학교 (SKKU, Seoul)
+- **Membership** : MunichRe, Data Solution
+- 🏫 **Education** : 성균관대학교 (SKKU, Seoul)
 - 💯 **Major** : Statistics
 - 🌂 **What is my github for 1** : Making up data analysis / visualizing projects I've done (marked with ⭐)
 - 🌂🌂 **What is my github for 2** : Posting team studies about data
@@ -13,9 +14,9 @@
 - 😄 **Character** : Bubbly, Thorough, Considerate
 - 🎹 **Hobbies** : Piano, jogging, traveling, table tennis
 - 🐶 **Interests** : biology, Rock n roll
-- 📫 **How to reach me** : mrg0718@naver.com
+- 📫 **How to reach me** : mrg0718@gmail.com / mrg0718@naver.com
 
 
 ### SKILLS
-- 💻 **Computing** : R, python, SAS, SPSS, SQL, MS office (PPT, Excel, Access, Word, ...)
+- 💻 **Computing** : R, python, SQL, SAS, SPSS, MS office (PPT, Excel, Access, Word, ...)
 - 🗣️ **Languages** : Korean(mother tongue), English(intermediate), Japanese(basic)
