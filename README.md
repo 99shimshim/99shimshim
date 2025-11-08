@@ -7,12 +7,12 @@
 - 🍰 **Birth** : 18 Jul, 1998
 - **Career 1** : (202402 - 202405) MunichRe, Data Analyst
 - **Career 2** : (202405 - ) Lotte Insurance, Data Scientist
-- 🏫 **Education** : 성균관대학교 (SKKU, Seoul)
-- 💯 **Major** : Statistics
+- 🏫 **Education 1** : 성균관대학교 통계학과 학사 (Statistics, SKKU)
+- 🏫 **Education 2** : 성균관대학교 데이터사이언스융합학과 석사 (Applied Data Science, SKKU, Candidate)
 - 🌂 **What is my github for 1** : Making up data analysis / visualizing projects I've done (marked with ⭐)
 - 🌂🌂 **What is my github for 2** : Posting team studies about data
 - 🔰 **MBTI** : ENFJ
-- 😄 **Character** : Bubbly, Thorough, Considerate
+- 😄 **Character** : Thorough, Considerate
 - 🐶 **Interests** : music, biology
 - 📫 **How to reach me** : mrg0718@gmail.com
 
