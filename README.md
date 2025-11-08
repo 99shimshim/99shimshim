@@ -5,7 +5,7 @@
 
 - 💎 **Name** : 심현구 (HyunGoo Shim; Henry Shim)
 - 🍰 **Birth** : 18 Jul, 1998
-- **Career 1** : (202402 - 202405) MunichRe, Data Analyst
+- **Career 1** : (202402 - 202405) Munich Reinsurance, Data Analyst
 - **Career 2** : (202405 - ) Lotte Insurance, Data Scientist
 - 🏫 **Education 1** : 성균관대학교 통계학과 학사 (Statistics, SKKU)
 - 🏫 **Education 2** : 성균관대학교 데이터사이언스융합학과 석사 (Applied Data Science, SKKU, Candidate)
