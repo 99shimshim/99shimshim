@@ -5,7 +5,8 @@
 
 - 💎 **Name** : 심현구 (HyunGoo Shim)
 - 🍰 **Birth** : 1998.7.18
-- **Membership** : MunichRe, Data Solution
+- **Career** : Lotte Insurance, Data Scientist
+- **Career** : MunichRe, Data Analyst
 - 🏫 **Education** : 성균관대학교 (SKKU, Seoul)
 - 💯 **Major** : Statistics
 - 🌂 **What is my github for 1** : Making up data analysis / visualizing projects I've done (marked with ⭐)
