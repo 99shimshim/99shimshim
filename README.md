@@ -13,7 +13,7 @@
 - 🌂🌂 **What is my github for 2** : Posting team studies about data
 - 🔰 **MBTI** : ENFJ
 - 😄 **Character** : Thorough, Considerate
-- 🐶 **Interests** : music, biology
+- 🐶 **Interests** : insurance, music, biology
 - 📫 **How to reach me** : mrg0718@gmail.com
 
 
